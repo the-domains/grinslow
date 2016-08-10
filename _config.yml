@@ -1,0 +1,14 @@
+layout_spectrum: 0
+typography_spectrum: 0.7867884
+color:
+  saturation: 0.922637
+  lightness: 0.8884305
+  brandStrength: 0.5535151
+  rhythmicContrast: 0.8963557
+  brandColors:
+    - '#71A7FE'
+    - '#399AE7'
+    - '#3B407C'
+    - '#547AB1'
+    - '#CEAFC0'
+name: Grinslow
