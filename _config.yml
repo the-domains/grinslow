@@ -1,8 +1,5 @@
-layout_spectrum: 0
-typography_spectrum: 0.7867884
 color:
   saturation: 0.922637
-  lightness: 0.8884305
   brandStrength: 0.5535151
   rhythmicContrast: 0.8963557
   brandColors:
@@ -11,4 +8,19 @@ color:
     - '#3B407C'
     - '#547AB1'
     - '#CEAFC0'
+  lightness: 0.8884305
+collections:
+  - index:
+      path: /
+      number: 15
+      paginate: true
+      navigable: true
+    permalink:
+      path: '/:title/'
+    feed:
+      path: /rss.xml
+      format: rss
+      number: 10
+layout_spectrum: 0
+typography_spectrum: 0.7867884
 name: Grinslow
